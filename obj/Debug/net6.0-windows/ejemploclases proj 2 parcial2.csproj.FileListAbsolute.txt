@@ -1,0 +1,17 @@
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\bin\Debug\net6.0-windows\ejemploclases proj 2 parcial2.exe
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\bin\Debug\net6.0-windows\ejemploclases proj 2 parcial2.deps.json
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\bin\Debug\net6.0-windows\ejemploclases proj 2 parcial2.runtimeconfig.json
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\bin\Debug\net6.0-windows\ejemploclases proj 2 parcial2.dll
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\bin\Debug\net6.0-windows\ejemploclases proj 2 parcial2.pdb
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.csproj.AssemblyReference.cache
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases_proj_2_parcial2.Form1.resources
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.csproj.GenerateResource.cache
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.AssemblyInfoInputs.cache
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.AssemblyInfo.cs
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.csproj.CoreCompileInputs.cache
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.dll
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\refint\ejemploclases proj 2 parcial2.dll
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.pdb
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ejemploclases proj 2 parcial2.genruntimeconfig.cache
+C:\Users\aguil\OneDrive\proyectos UNiversidad\Prog Visual\ejemploclases proj 2 parcial2\obj\Debug\net6.0-windows\ref\ejemploclases proj 2 parcial2.dll
